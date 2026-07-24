@@ -1,0 +1,26 @@
+/* .table-container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    
+} */
+
+h2{
+    margin-left: 20%;
+}
+table {
+    width: 50%;
+    border-collapse: collapse;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+th, td {
+    border: 1px solid #dddd;
+    text-align: left;
+    padding: 8px;
+}
+
+th {
+    background: #f2f2f2;
+}
